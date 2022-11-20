@@ -1,0 +1,39 @@
+.banner {
+  background: url("aset/background.jpg") no-repeat center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #c57981;
+}
+
+.lingkaran img {
+  position: relative;
+  top: 35px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+.page-up {
+  opacity: 70%;
+  padding: auto;
+  margin-block-end: auto;
+}
+.icon-gambar {
+  width: 20px;
+}
+.font {
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 3rem;
+  font-weight: bold;
+}
